@@ -146,7 +146,7 @@ end
 Walls and circles are updated and drawn by the `love.update` and `love.draw` functions.
 
 ## Reference Links 🔗
-_The idea has been taken online from an other designer. If you find them, please, notify me and I'll include their video link here in the reference list._
+**Where the Idea comes from**: [bouncing_ba11s - Instagram](https://www.instagram.com/reel/C0k3KLTOXuk/?igshid=MjJkMmIyYzQxYw==)
 
 **LÖVE Website**: [LOVE2D](https://love2d.org/wiki/Main_Page)
 
