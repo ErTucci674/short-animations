@@ -1,4 +1,4 @@
-# Turning and Sounds
+# 🔀🔊 Turning and Sounds
 ## Introduction 📖
 The animation consists of circles travelling in a constant turning motion around a wider circle's centre point. The small circles are attached with a string to the centre point. A vertical line connects the centre point to the top side of the circle's diametre. When the circles reach the vertical line, they bounce back and start turning in the opposite direction. The circles and their corrisponding strings start with a specific colour each which gradually changes to black while reaching the other side of the string. When a circle collides its music note is played and the colours instantly changes back to the original. Each circle is slightly faster than the previous one.
 

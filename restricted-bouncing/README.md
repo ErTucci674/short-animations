@@ -1,4 +1,4 @@
-# Restricted Bouncing
+# ⚽✋ Restricted Bouncing
 ## Introduction 📖
 The animation begins with 8 coloured circles moving from left to right, each one faster than the previous one. As the circles reach the black wall on the right side, they bounce back and play their assigned sounds. Same thing happens when bouncing on the wall on the left side. In the meantime, both the walls move at a constat speed towards the center, delimiting the circles' range of motion. When the walls are a circle's diamter distance from each other, the window closes.
 
